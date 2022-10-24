@@ -8,3 +8,8 @@ Created for P1HW2
 Gernux
 9-26-22
 [P1HW2_GernuxJasmine.zip](https://github.com/gernuxj5182/CTI110/files/9649418/P1HW2_GernuxJasmine.zip)
+
+Created for P3LAB
+Gernux
+10-24-22
+[P3LAB_GernuxJasmine.zip](https://github.com/gernuxj5182/CTI110/files/9853370/P3LAB_GernuxJasmine.zip)
